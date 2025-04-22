@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lUxyVNbvVXE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danstef\\Desktop\\ZPG\\cv11\\PathTracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danstef\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
