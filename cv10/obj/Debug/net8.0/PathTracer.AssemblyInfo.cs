@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PathTracer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+495c126facde636105b44ab14f1285ee178669ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c4cfc16288e9124c92ec7d45777b8ed30f573c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PathTracer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PathTracer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

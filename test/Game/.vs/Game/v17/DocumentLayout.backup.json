@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danny\\OneDrive\\Plocha\\Z\u010CU\\2.Druhak\\Letnak\\ZPG\\test\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A077C6C-E028-47E1-AE31-E2E7A5B7F480}|Game.csproj|c:\\users\\danny\\onedrive\\plocha\\z\u010Du\\2.druhak\\letnak\\zpg\\test\\game\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A077C6C-E028-47E1-AE31-E2E7A5B7F480}|Game.csproj|solutionrelative:vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A077C6C-E028-47E1-AE31-E2E7A5B7F480}|Game.csproj|c:\\users\\danny\\onedrive\\plocha\\z\u010Du\\2.druhak\\letnak\\zpg\\test\\game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A077C6C-E028-47E1-AE31-E2E7A5B7F480}|Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\Z\u010CU\\2.Druhak\\Letnak\\ZPG\\test\\Game\\Vector2.cs",
+              "RelativeDocumentMoniker": "Vector2.cs",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\Z\u010CU\\2.Druhak\\Letnak\\ZPG\\test\\Game\\Vector2.cs",
+              "RelativeToolTip": "Vector2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:43:49.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\Z\u010CU\\2.Druhak\\Letnak\\ZPG\\test\\Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\Z\u010CU\\2.Druhak\\Letnak\\ZPG\\test\\Game\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:43:30.354Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

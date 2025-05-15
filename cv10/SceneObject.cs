@@ -12,7 +12,7 @@ namespace PathTracer
         public BRDF brdf;
 
         // number of samples used for incomming radiance integration
-        static int sampleCount = 20;
+        static int sampleCount = 10;
 
         // shared random number generator
         static Random r = new Random(0);

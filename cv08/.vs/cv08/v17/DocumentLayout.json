@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|c:\\users\\danny\\onedrive\\plocha\\zcu\\2.druhak\\letnak\\zpg\\cv08\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|c:\\users\\danny\\onedrive\\plocha\\zcu\\2.druhak\\letnak\\zpg\\cv08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|c:\\users\\danny\\onedrive\\plocha\\zcu\\2.druhak\\letnak\\zpg\\cv08\\basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|solutionrelative:basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|c:\\users\\danny\\onedrive\\plocha\\zcu\\2.druhak\\letnak\\zpg\\cv08\\basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|solutionrelative:basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|c:\\users\\danny\\onedrive\\plocha\\zcu\\2.druhak\\letnak\\zpg\\cv08\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|solutionrelative:vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|c:\\users\\danny\\onedrive\\plocha\\zcu\\2.druhak\\letnak\\zpg\\cv08\\simpleobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|solutionrelative:simpleobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|c:\\users\\danny\\onedrive\\plocha\\zcu\\2.druhak\\letnak\\zpg\\cv08\\betterobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864D2EFF-E5AF-7D69-6EC7-D2B9B8E05F6D}|cv08.csproj|solutionrelative:betterobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "basic.frag",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\basic.frag",
+              "RelativeDocumentMoniker": "basic.frag",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\basic.frag",
+              "RelativeToolTip": "basic.frag",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T12:10:39.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "basic.vert",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\basic.vert",
+              "RelativeDocumentMoniker": "basic.vert",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\basic.vert",
+              "RelativeToolTip": "basic.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T11:24:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\Model.cs",
+              "RelativeDocumentMoniker": "Model.cs",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\Model.cs",
+              "RelativeToolTip": "Model.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwGoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:16:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BetterObj.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\BetterObj.cs",
+              "RelativeDocumentMoniker": "BetterObj.cs",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\BetterObj.cs",
+              "RelativeToolTip": "BetterObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:19:14.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleObj.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\SimpleObj.cs",
+              "RelativeDocumentMoniker": "SimpleObj.cs",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\SimpleObj.cs",
+              "RelativeToolTip": "SimpleObj.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAD4vxwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:16:59.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\Vertex.cs",
+              "RelativeDocumentMoniker": "Vertex.cs",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\Vertex.cs",
+              "RelativeToolTip": "Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:14:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danny\\OneDrive\\Plocha\\ZCU\\2.Druhak\\Letnak\\ZPG\\cv08\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:11:33.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1176,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

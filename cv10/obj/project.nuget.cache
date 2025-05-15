@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lmLxXUP0qt0=",
+  "dgSpecHash": "xtv2cjtnxPA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\danstef\\Desktop\\ZPG\\cv10\\PathTracer.csproj",
+  "projectFilePath": "C:\\Users\\danny\\OneDrive\\Plocha\\ZČU\\2.Druhak\\Letnak\\ZPG\\cv10\\PathTracer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\danstef\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512"
+    "C:\\Users\\danny\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512"
   ],
   "logs": []
 }
