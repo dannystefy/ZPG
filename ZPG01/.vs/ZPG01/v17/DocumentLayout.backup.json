@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|c:\\users\\danstef\\desktop\\zpg\\zpg01\\zpg01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|solutionrelative:zpg01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\zpg01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|solutionrelative:zpg01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|c:\\users\\danstef\\desktop\\zpg\\zpg01\\zpg01\\trianglegl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|solutionrelative:zpg01\\trianglegl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|c:\\users\\danstef\\desktop\\zpg\\zpg01\\zpg01\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|solutionrelative:zpg01\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|c:\\users\\danstef\\desktop\\zpg\\zpg01\\zpg01\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|solutionrelative:zpg01\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|c:\\users\\danstef\\desktop\\zpg\\zpg01\\zpg01\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG01\\ZPG01.csproj|solutionrelative:zpg01\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Form1.cs",
+              "RelativeDocumentMoniker": "ZPG01\\Form1.cs",
+              "ToolTip": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Form1.cs",
+              "RelativeToolTip": "ZPG01\\Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:11:15.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Form1.cs",
+              "RelativeDocumentMoniker": "ZPG01\\Form1.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\ZPG01\\ZPG01\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\ZPG01\\ZPG01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:59:04.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriangleGL.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\TriangleGL.cs",
+              "RelativeDocumentMoniker": "ZPG01\\TriangleGL.cs",
+              "ToolTip": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\TriangleGL.cs",
+              "RelativeToolTip": "ZPG01\\TriangleGL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:07:00.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Model.cs",
+              "RelativeDocumentMoniker": "ZPG01\\Model.cs",
+              "ToolTip": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Model.cs",
+              "RelativeToolTip": "ZPG01\\Model.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwHQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:08:39.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Vector2.cs",
+              "RelativeDocumentMoniker": "ZPG01\\Vector2.cs",
+              "ToolTip": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Vector2.cs",
+              "RelativeToolTip": "ZPG01\\Vector2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:20:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Vertex.cs",
+              "RelativeDocumentMoniker": "ZPG01\\Vertex.cs",
+              "ToolTip": "C:\\Users\\danstef\\Desktop\\ZPG\\ZPG01\\ZPG01\\Vertex.cs",
+              "RelativeToolTip": "ZPG01\\Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:34:39.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

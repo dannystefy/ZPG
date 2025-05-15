@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|c:\\users\\danstef\\downloads\\04\\zpg03\\zpg03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|solutionrelative:zpg03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|C:\\Users\\danstef\\Downloads\\04\\ZPG03\\zpg03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|solutionrelative:zpg03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|c:\\users\\danstef\\downloads\\04\\zpg03\\zpg03\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|solutionrelative:zpg03\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|c:\\users\\danstef\\downloads\\04\\zpg03\\zpg03\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|solutionrelative:zpg03\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|c:\\users\\danstef\\downloads\\04\\zpg03\\zpg03\\vertexgl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|solutionrelative:zpg03\\vertexgl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|c:\\users\\danstef\\downloads\\04\\zpg03\\zpg03\\vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|solutionrelative:zpg03\\vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|c:\\users\\danstef\\downloads\\04\\zpg03\\zpg03\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69BFFABF-188F-4FB7-A378-F0876DC45308}|ZPG03\\ZPG03.csproj|solutionrelative:zpg03\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Camera.cs",
+              "RelativeDocumentMoniker": "ZPG03\\Camera.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Camera.cs",
+              "RelativeToolTip": "ZPG03\\Camera.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:16:14.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Form1.cs",
+              "RelativeDocumentMoniker": "ZPG03\\Form1.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Form1.cs*",
+              "RelativeToolTip": "ZPG03\\Form1.cs*",
+              "ViewState": "AgIAALQAAAAAAAAAAAAswMYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:08:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Form1.cs",
+              "RelativeDocumentMoniker": "ZPG03\\Form1.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Form1.cs [Design]",
+              "RelativeToolTip": "ZPG03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:08:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VertexGL.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\VertexGL.cs",
+              "RelativeDocumentMoniker": "ZPG03\\VertexGL.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\VertexGL.cs",
+              "RelativeToolTip": "ZPG03\\VertexGL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:05:59.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Model.cs",
+              "RelativeDocumentMoniker": "ZPG03\\Model.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Model.cs",
+              "RelativeToolTip": "ZPG03\\Model.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:04:12.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Vector2.cs",
+              "RelativeDocumentMoniker": "ZPG03\\Vector2.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Vector2.cs",
+              "RelativeToolTip": "ZPG03\\Vector2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:02:25.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vector3.cs",
+              "DocumentMoniker": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Vector3.cs",
+              "RelativeDocumentMoniker": "ZPG03\\Vector3.cs",
+              "ToolTip": "C:\\Users\\danstef\\Downloads\\04\\ZPG03\\ZPG03\\Vector3.cs",
+              "RelativeToolTip": "ZPG03\\Vector3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:03:02.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
